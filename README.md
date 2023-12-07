@@ -11,3 +11,4 @@ Libraries utilized: Pandas, Numpy, and Matplotlib
 ***
 ## Social Media and Other Sites
 
+[LikedIn](https://www.linkedin.com/in/wallace-oumah-082a93169/)
