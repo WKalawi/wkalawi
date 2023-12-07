@@ -8,6 +8,6 @@ EDA of movie industry data for Moringa School Data Science Immersive Program.
 
 Libraries utilized: Pandas, Numpy, and Matplotlib
 
-**
+***
 ## Social Media and Other Sites
 
