@@ -5,6 +5,7 @@
 **[Microsoft Movie Analysis](https://github.com/WKalawi/DTS-Phase-1-Project)**
 
 EDA of movie industry data for Moringa School Data Science Immersive Program.
+
 Libraries utilized: Pandas, Numpy, and Matplotlib
 
 <!--
