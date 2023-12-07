@@ -7,10 +7,11 @@
 EDA of movie industry data for Moringa School Data Science Immersive Program.
 Libraries utilized: Pandas, Numpy, and Matplotlib
 
-<!--
-**WKalawi/wkalawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Social Media and Other Sites
+
+[![image](https://github.com/WKalawi/wkalawi/assets/151630138/1a7977c0-057a-4b65-a735-3e99f0aeca4a)]
+(https://medium.com/@kkalawi10)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
