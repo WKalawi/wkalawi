@@ -8,6 +8,9 @@ EDA of movie industry data for Moringa School Data Science Immersive Program.
 
 Libraries utilized: Pandas, Numpy, and Matplotlib
 
+## Bio
+
+I am a data scientist with experience in data scraping, API calls, statistical analysis, and machine learning models. I have a professional background in statistics and programming with successful Python implementations for modelling and statistical testing. Excellent documentation skills with background in document control, database management, and git. Passionate about learning new skills and knowledge.
 ***
 ## Social Media and Other Sites
 
