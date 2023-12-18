@@ -1,4 +1,4 @@
-<h1 align="center">WelcoME TO Wallace Ouma's Portfolio </h1>
+<h1 align="center">Welcome to Ouma Wallace's Portfolio </h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
 
