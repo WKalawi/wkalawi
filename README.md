@@ -1,22 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wallace Ouma</h1>
+<h1 align="center">WelcoME TO Wallace Ouma's Portfolio </h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
-<img align="right" alt= "coding" width ="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fstory-data-science-pipeline-gaurav-patel&psig=AOvVaw3pX1su5cSHtvesVPIWPTUB&ust=1702989801980000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjhhc2BmYMDFQAAAAAdAAAAABAu"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkalawi&label=Profile%20views&color=0e75b6&style=flat" alt="wkalawi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wkalawi" alt="wkalawi" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkalawi&label=Profile%20views&color=0e75b6&style=flat" alt="wkalawi" /> </p>
 
 - 🌱 I’m currently learning **Python, Numpy, MongoDB, Pandas, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WKalawi](https://github.com/WKalawi)
-
-- 📝 I regularly write articles on [https://medium.com/@kkalawi10](https://medium.com/@kkalawi10)
-
 - 💬 Ask me about **Python and R Programming**
-
-- 📫 How to reach me **kkalawi10@gmail.com**
-
-- ⚡ Fun fact **I love Chelsea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
