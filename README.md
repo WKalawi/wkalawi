@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data scientist from Kenya</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fstory-data-science-pipeline-gaurav-patel&psig=AOvVaw3pX1su5cSHtvesVPIWPTUB&ust=1702989801980000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiYmebfmYMDFQAAAAAdAAAAABAZ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wkalawi&label=Profile%20views&color=0e75b6&style=flat" alt="wkalawi" /> </p>
 
 - 🌱 I’m currently learning **Python, Numpy, MongoDB, Pandas, Tableau**
