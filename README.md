@@ -10,10 +10,10 @@
 <img align="right" alt="coding" width="500" src="https://media.licdn.com/dms/image/C5612AQGORTrJpyzn0g/article-cover_image-shrink_600_2000/0/1584236402077?e=2147483647&v=beta&t=GGl-J3kp9FAaqGZnL7GuO9nSoawV4nFtglenXxE7d7Y">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kalawi10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalawi10_" height="30" width="40" /></a>
+<a href="https://twitter.com/kalawi11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kalawi10_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ouma-wallace-082a93169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ouma-wallace-082a93169/" height="30" width="40" /></a>
 <a href="https://kaggle.com/wkalawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wkalawi" height="30" width="40" /></a>
-<a href="https://instagram.com/kalawi11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalawi10_" height="30" width="40" /></a>
+<a href="https://instagram.com/kalawi10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalawi10_" height="30" width="40" /></a>
 <a href="https://medium.com/@kkalawi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kkalawi10" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
