@@ -27,6 +27,8 @@
 
 
 ## Projects
+**[King County Housing Analysis: 2024](https://github.com/Bree-009/PREDICTIVE-ANALYSIS-IN-PROPERTY-VALUATION)**
+House Price Estimate
 
 **[Microsoft Movie Analysis: 2023](https://github.com/WKalawi/DTS-Phase-1-Project)**
 
