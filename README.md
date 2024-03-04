@@ -27,6 +27,11 @@
 
 
 ## Projects
+
+**[H1N1 and Seasonal Flu Vaccines](https://github.com/WKalawi/H1N1-and-Seasonal-Flu-Vaccines)**
+
+Predicting whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors.
+
 **[King County Housing Analysis: 2024](https://github.com/Bree-009/PREDICTIVE-ANALYSIS-IN-PROPERTY-VALUATION)**
 
 House Price Estimate
