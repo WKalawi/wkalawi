@@ -28,6 +28,11 @@
 
 ## Projects
 
+**[Twitter Sentiment Analysis](https://github.com/KennedyOwinoJnr/Twitter-Sentiment-Analysis/tree/master)**
+
+Utilizing Natural Language Processing techniques to construct a machine learning model for automated sentiment analysis of tweets related to Google and Apple products.
+
+
 **[H1N1 and Seasonal Flu Vaccines](https://github.com/WKalawi/H1N1-and-Seasonal-Flu-Vaccines)**
 
 Predicting whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors.
