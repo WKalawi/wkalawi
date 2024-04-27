@@ -28,6 +28,10 @@
 
 ## Projects
 
+**[Library Books Recommendation Systsemt](https://github.com/KennedyOwinoJnr/Book-Recommender-System)**
+
+This project creates a recommender engine and User Interface that aim to provide a seamless and engaging experience, empowering users to discover new books that align with their interests and preferences while fostering a sense of community and interaction within the platform.
+
 **[Twitter Sentiment Analysis](https://github.com/KennedyOwinoJnr/Twitter-Sentiment-Analysis/tree/master)**
 
 Utilizing Natural Language Processing techniques to construct a machine learning model for automated sentiment analysis of tweets related to Google and Apple products.
